@@ -1,9 +1,3 @@
-/**
- * ACS-2947 As2 Part A
- * NAME: YUVRAJ SINGH
- * STUDENT# 3093732
- */
-
 import java.util.Arrays;
 import java.util.Scanner;
 import static java.lang.Math.*;
